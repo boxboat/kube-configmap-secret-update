@@ -1,6 +1,6 @@
 ## Kubernetes Rolling Update on ConfigMap and Secret changes
 
-Detailed instructions for using this repository can be found in the [BoxBoat Blog post for Triggering Rolling Updates when ConfigMaps and Secrets Change in Kubernetes](https://boxboat.com/2018/07/05/2018/07/05/trigger-rolling-update-configmap-secret-change-kubernetes/)
+Detailed instructions for using this repository can be found in the [BoxBoat Blog post for GitOps Rolling Update when ConfigMaps and Secrets Change in Kubernetes](https://boxboat.com/2018/07/05/gitops-rolling-update-configmap-secret-change-kubernetes/)
 
 Deploy `nginx-config-example.yml` by running `./nginx-config-example.sh`
 
